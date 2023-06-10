@@ -1,5 +1,6 @@
 {
     "name": "shoumq/gptphp",
+    "version": "1.0.0",
     "description": "library to use gpt queries",
     "license": "MIT",
     "type": "library",

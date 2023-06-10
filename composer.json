@@ -1,6 +1,7 @@
 {
     "name": "shoumq/gptphp",
     "description": "library to use gpt queries",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -13,5 +14,6 @@
             "email": "lae345@mail.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }

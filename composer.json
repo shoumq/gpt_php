@@ -1,0 +1,17 @@
+{
+    "name": "shoumq/gptphp",
+    "description": "library to use gpt queries",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Shoumq\\Gptphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shoumq",
+            "email": "lae345@mail.ru"
+        }
+    ],
+    "require": {}
+}
